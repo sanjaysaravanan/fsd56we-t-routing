@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "grade": "10th Grade",
+    "image": "https://www.assuredoccu.com/wp-content/uploads/2021/10/student.jpg",
+    "isSenior": true
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "grade": "9th Grade",
+    "image": "https://i.pinimg.com/236x/be/f4/ae/bef4aeccbc14c1964ebb6a50e6255f51.jpg",
+    "isSenior": false
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "grade": "11th Grade",
+    "image": "https://pbs.twimg.com/profile_images/1087449724783812611/6cqiEHCV_400x400.jpg",
+    "isSenior": false
+  }
+]
