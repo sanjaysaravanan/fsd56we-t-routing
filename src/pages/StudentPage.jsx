@@ -51,6 +51,7 @@ const StudentPage = () => {
       {/* <h1>Individual Student</h1> */}
       {/* <h2>Student Id: {params.studentId}</h2> */}
       {/* <h2>Student Id: {studentId}</h2> */}
+
       <Student {...data.find((stu) => stu.id === parseInt(studentId))} />
     </>
   );

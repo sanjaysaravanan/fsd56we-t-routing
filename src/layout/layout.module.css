@@ -1,0 +1,33 @@
+.header {
+  position: fixed;
+  background-color: inherit;
+  width: 100%;
+  top: 0;
+  left: 0;
+  border-bottom: 1px solid;
+  z-index: 1;
+}
+
+.footer {
+  /* position: absolute;
+  bottom: 0px;
+  right: 0px; */
+  text-align: center;
+}
+
+.sidebar {
+  position: fixed;
+  background-color: inherit;
+  width: 125px;
+  left: 0;
+  top: 81px;
+  height: calc(100vh - 81px);
+  border-right: 1px solid;
+  text-align: center;
+}
+
+.content {
+  height: 200vh;
+  padding-top: 90px;
+  margin-left: 125px;
+}

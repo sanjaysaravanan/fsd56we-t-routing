@@ -1,20 +1,6 @@
 // This is component is the parent of Home Page
 import { Link } from "react-router-dom";
-
-const links = [
-  {
-    name: "Home",
-    path: "/",
-  },
-  {
-    name: "Students",
-    path: "/students",
-  },
-  {
-    name: "About Us",
-    path: "/about-us",
-  },
-];
+import links from "../links.json";
 
 const HomePage = () => {
   return (
